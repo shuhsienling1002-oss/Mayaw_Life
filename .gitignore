@@ -1,0 +1,15 @@
+# Python 編譯產生的暫存檔 (必填)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虛擬環境資料夾 (如果您以後有設的話)
+venv/
+env/
+.env
+
+# Mac 系統自動產生的檔案 (如果您或別人用 Mac)
+.DS_Store
+
+# Streamlit 特有的暫存檔
+.streamlit/
